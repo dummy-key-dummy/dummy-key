@@ -1,0 +1,5 @@
+// This is a test AWS access key. it has no access to anything - explicit deny all to all services
+{
+    "Access Key": "AKIAZDMUPKSQ4LUGRO6K",
+    "Secret Key": "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"
+}
